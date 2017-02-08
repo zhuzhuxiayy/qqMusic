@@ -1,0 +1,967 @@
+{
+  "code": 0,
+  "subcode": 0,
+  "message": "",
+  "default": 0,
+  "data": {
+    "focus": [
+      {
+        "fid": "8329",
+        "id": "http://y.qq.com/topic/yt163/index.html",
+        "jumpurl": "http://y.qq.com/topic/yt163/index.html",
+        "pic": "http://y.gtimg.cn/music/common/upload/t_focus_info_iphone/65207.jpg",
+        "title": "乐谈163PC+YQQ",
+        "type": 3002
+      },
+      {
+        "fid": "8332",
+        "id": "http://share.y.qq.com/l?g=2804&id=1727079&g_f=yqqjiaodian",
+        "jumpurl": "http://share.y.qq.com/l?g=2804&id=1727079&g_f=yqqjiaodian",
+        "pic": "http://y.gtimg.cn/music/common/upload/t_focus_info_iphone/64928.jpg",
+        "title": "YQQ-鬼怪OST",
+        "type": 3002
+      },
+      {
+        "fid": "8289",
+        "id": "1144866349",
+        "jumpurl": "",
+        "pic": "http://y.gtimg.cn/music/common/upload/t_focus_info_iphone/64775.jpg",
+        "title": "PC 新歌八达通",
+        "type": 10014
+      },
+      {
+        "fid": "8292",
+        "id": "http://y.qq.com/m/mv/recom.html?cid=8mrljtj8wsoui0t",
+        "jumpurl": "http://y.qq.com/m/mv/recom.html?cid=8mrljtj8wsoui0t",
+        "pic": "http://y.gtimg.cn/music/common/upload/t_focus_info_iphone/64416.jpg",
+        "title": "41期 音缺 pc",
+        "type": 3002
+      },
+      {
+        "fid": "8353",
+        "id": "http://y.qq.com/portal/mv/c/r8949kfpfw8n8qq.html",
+        "jumpurl": "http://y.qq.com/portal/mv/c/r8949kfpfw8n8qq.html",
+        "pic": "http://y.gtimg.cn/music/common/upload/mv_t_mv_focus/65232.jpg",
+        "title": "2016神曲年终盘点",
+        "type": 3002
+      },
+      {
+        "fid": "8262",
+        "id": "http://y.qq.com/vip/nine_anniversary/index.html",
+        "jumpurl": "http://y.qq.com/vip/nine_anniversary/index.html",
+        "pic": "http://y.gtimg.cn/music/common/upload/t_focus_info_iphone/62930.jpg",
+        "title": "PC 绿钻9周年",
+        "type": 3002
+      }
+    ],
+    "hotdiss": {
+      "list": [
+        {
+          "author": "Harry",
+          "dissid": "2646688496",
+          "dissname": "催泪大杀器！盘点演唱会经典万人大合唱",
+          "imgurl": "http://p.qpic.cn/music_cover/1Fr9IFMhWDPeUzWKVEjn3QTL2eX2QziaJmaL0ZAmsvtW71ic9IDUoYzg/300?n=1",
+          "listennum": 425119,
+          "sum": 0
+        },
+        {
+          "author": "风吹草地",
+          "dissid": "1144416825",
+          "dissname": "纳尼？这些华语歌手竟然会唱日语歌！",
+          "imgurl": "http://p.qpic.cn/music_cover/z8wAFqicQ1qhImeiajkrgiaR4hYM3pzsUULFnicXshFXdw9uGkm261Ex9g/300?n=1",
+          "listennum": 82889,
+          "sum": 0
+        },
+        {
+          "author": "１'s   ヽ",
+          "dissid": "2043041547",
+          "dissname": "精选内地十大民谣歌手代表作",
+          "imgurl": "http://p.qpic.cn/music_cover/hVUsfUFG2DV466URqw7PT7X66OknPIhic2mKDgicawN4qThIR7yhYY1w/300?n=1",
+          "listennum": 161178,
+          "sum": 0
+        },
+        {
+          "author": "　",
+          "dissid": "2040362185",
+          "dissname": "2016billboard嘻哈榜歌单",
+          "imgurl": "http://p.qpic.cn/music_cover/tkduvk4dwqBxwzZhsNe0nwkwyiaLHVkxtla7REsX0yNkhibOH3Bdb2og/300?n=1",
+          "listennum": 75760,
+          "sum": 0
+        },
+        {
+          "author": "肥喵",
+          "dissid": "1723063372",
+          "dissname": "浮光掠影：ACG纯音乐赏析合辑",
+          "imgurl": "http://p.qpic.cn/music_cover/XMPAjfs5uwGZdWII3osvAvCRyNWx8Pqy5Yice41OCZlBhLtk0p0icNvg/300?n=1",
+          "listennum": 732027,
+          "sum": 0
+        },
+        {
+          "author": "哑忍",
+          "dissid": "3482605622",
+          "dissname": "trip-hop单曲大推荐",
+          "imgurl": "http://y.gtimg.cn/music/photo_new/T005R600x600M000002CJKAY1LKpcz.jpg?n=1",
+          "listennum": 327527,
+          "sum": 0
+        },
+        {
+          "author": "Hush!  薄荷糖",
+          "dissid": "2041898161",
+          "dissname": "韩式Rap丨释放你内心的小怪兽",
+          "imgurl": "http://p.qpic.cn/music_cover/ezXpob9biaedyoUWFJDttEf33f6hOHJXIVu9EZyRWyNX9HEibYAg2gXg/300?n=1",
+          "listennum": 217571,
+          "sum": 0
+        },
+        {
+          "author": "Vāáǎàn",
+          "dissid": "2347249629",
+          "dissname": "Weeknd最好听20首歌",
+          "imgurl": "http://p.qpic.cn/music_cover/JPCvUKctPhdCJxJYL717CNSQRSHjH7kt0ZNicz4CnibNusQ0YYS2BHQQ/300?n=1",
+          "listennum": 20375,
+          "sum": 0
+        },
+        {
+          "author": "鹿先森",
+          "dissid": "1426938092",
+          "dissname": "【青春日系】你就是这世界上唯一的花",
+          "imgurl": "http://p.qpic.cn/music_cover/WJWRZDHYHHljya7vKdo0DDSyKOy25JrN3ibleZFYRejW13NjP2HPBcg/300?n=1",
+          "listennum": 40015,
+          "sum": 0
+        },
+        {
+          "author": "柳云歌",
+          "dissid": "2943473398",
+          "dissname": "超带感的欧美节奏，我已听跪！",
+          "imgurl": "http://p.qpic.cn/music_cover/NJjuMOxtdpFtqDEZIb8NezYWibcyvy9bTfcU1kvL1JQn5nRWfpR35oA/300?n=1",
+          "listennum": 205623,
+          "sum": 0
+        },
+        {
+          "author": "宝骏汽车",
+          "dissid": "2941928102",
+          "dissname": "闻声·心动 宝骏移动音乐榜",
+          "imgurl": "http://p.qpic.cn/music_cover/yBqdmaaPhhE7TRMn0h8qIoWorxMzPb9t5mbibIO1c2nyyviayjQtCBiag/300?n=1",
+          "listennum": 391317,
+          "sum": 0
+        },
+        {
+          "author": "平凡的人(๑• . •๑)",
+          "dissid": "2940607029",
+          "dissname": "王者荣耀英雄同名歌曲",
+          "imgurl": "http://p.qpic.cn/music_cover/cLBpw4KwGvQIalbDkmcfFdhQ0D4LZtB0STA5gQnEMmqibsrgjmo55cQ/300?n=1",
+          "listennum": 41731,
+          "sum": 0
+        }
+      ],
+      "sum": 12
+    },
+    "shoubomv": {
+      "all": [
+        {
+          "listennum": 54446,
+          "mv_id": 1069744,
+          "mvdesc": "三生三世桃花虐恋",
+          "mvscore": 0,
+          "mvtitle": "凉凉",
+          "picurl": "http://vpic.video.qq.com/58554157/p0022w4yvpo_160_90_3.jpg",
+          "pub_date": "2017-01-09",
+          "singer_id": 11608,
+          "singer_mid": "003tMm0y0TuewY",
+          "singer_name": "杨宗纬",
+          "vid": "p0022w4yvpo"
+        },
+        {
+          "listennum": 17126,
+          "mv_id": 1069636,
+          "mvdesc": "春节主打歌速度get！",
+          "mvscore": 0,
+          "mvtitle": "欢乐中国年 + 有钱没钱回家过年",
+          "picurl": "http://vpic.video.qq.com/22572547/q0022p5gg3h_160_90_3.jpg",
+          "pub_date": "2017-01-08",
+          "singer_id": 19834,
+          "singer_mid": "000AXCAL40EYXS",
+          "singer_name": "柳岩",
+          "vid": "q0022p5gg3h"
+        },
+        {
+          "listennum": 8940,
+          "mv_id": 1069840,
+          "mvdesc": "孝琳演唱《花郎》OST",
+          "mvscore": 0,
+          "mvtitle": "서로의 눈물이 되어",
+          "picurl": "http://vpic.video.qq.com/42161444/m0022ibi51y_160_90_3.jpg",
+          "pub_date": "2017-01-09",
+          "singer_id": 28894,
+          "singer_mid": "003XGKPF3lw4Nc",
+          "singer_name": "효린",
+          "vid": "m0022ibi51y"
+        },
+        {
+          "listennum": 10219,
+          "mv_id": 1069790,
+          "mvdesc": "教给你怎么不靠脸撩妹",
+          "mvscore": 0,
+          "mvtitle": "Summer",
+          "picurl": "http://vpic.video.qq.com/55683199/q0022jnpgri_160_90_3.jpg",
+          "pub_date": "2017-01-09",
+          "singer_id": 1104128,
+          "singer_mid": "003T09nh37Pq4N",
+          "singer_name": "Marshmello",
+          "vid": "q0022jnpgri"
+        },
+        {
+          "listennum": 8339,
+          "mv_id": 1069772,
+          "mvdesc": "诠释追梦的心路历程",
+          "mvscore": 0,
+          "mvtitle": "仰望",
+          "picurl": "http://vpic.video.qq.com/95580674/m00227l9g95_160_90_3.jpg",
+          "pub_date": "2017-01-10",
+          "singer_id": 164158,
+          "singer_mid": "000itww408VVeN",
+          "singer_name": "李琦",
+          "vid": "m00227l9g95"
+        },
+        {
+          "listennum": 34616,
+          "mv_id": 1069568,
+          "mvdesc": "胡夏倾力演绎灰姑娘华丽蜕变",
+          "mvscore": 0,
+          "mvtitle": "你好灰姑娘",
+          "picurl": "http://vpic.video.qq.com/3044161/i0022dpbh1e_160_90_3.jpg",
+          "pub_date": "2017-01-09",
+          "singer_id": 24833,
+          "singer_mid": "002mze3U0NYXOM",
+          "singer_name": "胡夏",
+          "vid": "i0022dpbh1e"
+        },
+        {
+          "listennum": 14018,
+          "mv_id": 1069570,
+          "mvdesc": "对爱情的深度思考",
+          "mvscore": 0,
+          "mvtitle": "分手看看",
+          "picurl": "http://vpic.video.qq.com/80181683/l0022y7q9t5_160_90_3.jpg",
+          "pub_date": "2017-01-09",
+          "singer_id": 11626,
+          "singer_mid": "0043Zxw10txf5O",
+          "singer_name": "郭静",
+          "vid": "l0022y7q9t5"
+        },
+        {
+          "listennum": 42420,
+          "mv_id": 1069742,
+          "mvdesc": "练习室舞蹈版火热来袭",
+          "mvscore": 0,
+          "mvtitle": "自饰者 (练习室舞蹈版)",
+          "picurl": "http://vpic.video.qq.com/96839063/v0022na0ma0_160_90_3.jpg",
+          "pub_date": "2017-01-10",
+          "singer_id": 199515,
+          "singer_mid": "0003ZpE43ypssl",
+          "singer_name": "张碧晨",
+          "vid": "v0022na0ma0"
+        }
+      ],
+      "gangtai": [
+        {
+          "listennum": 411881,
+          "mv_id": 1068947,
+          "mvdesc": "摸鼻杀！“兄妹CP”暖心日常",
+          "mvscore": 0,
+          "mvtitle": "漫动作",
+          "picurl": "http://vpic.video.qq.com/25008957/i00224v5dxu_160_90_3.jpg",
+          "pub_date": "2017-01-05",
+          "singer_id": 4359,
+          "singer_mid": "000iM9BB2TXFqu",
+          "singer_name": "潘玮柏",
+          "vid": "i00224v5dxu"
+        },
+        {
+          "listennum": 54446,
+          "mv_id": 1069744,
+          "mvdesc": "三生三世桃花虐恋",
+          "mvscore": 0,
+          "mvtitle": "凉凉",
+          "picurl": "http://vpic.video.qq.com/58554157/p0022w4yvpo_160_90_3.jpg",
+          "pub_date": "2017-01-09",
+          "singer_id": 11608,
+          "singer_mid": "003tMm0y0TuewY",
+          "singer_name": "杨宗纬",
+          "vid": "p0022w4yvpo"
+        },
+        {
+          "listennum": 14018,
+          "mv_id": 1069570,
+          "mvdesc": "对爱情的深度思考",
+          "mvscore": 0,
+          "mvtitle": "分手看看",
+          "picurl": "http://vpic.video.qq.com/80181683/l0022y7q9t5_160_90_3.jpg",
+          "pub_date": "2017-01-09",
+          "singer_id": 11626,
+          "singer_mid": "0043Zxw10txf5O",
+          "singer_name": "郭静",
+          "vid": "l0022y7q9t5"
+        },
+        {
+          "listennum": 3795,
+          "mv_id": 1067374,
+          "mvdesc": "华语乐坛创作新女声",
+          "mvscore": 0,
+          "mvtitle": "幻想的作品",
+          "picurl": "http://vpic.video.qq.com/27998378/r0022e14rb6_160_90_3.jpg",
+          "pub_date": "2016-12-27",
+          "singer_id": 964135,
+          "singer_mid": "0002aTzY3fLqTM",
+          "singer_name": "郭修彧",
+          "vid": "r0022e14rb6"
+        },
+        {
+          "listennum": 9765,
+          "mv_id": 1069719,
+          "mvdesc": "谢霆锋、郑容和大展厨艺",
+          "mvscore": 0,
+          "mvtitle": "漫漫人生路",
+          "picurl": "http://vpic.video.qq.com/27536857/b0022f588ga_160_90_3.jpg",
+          "pub_date": "2017-01-10",
+          "singer_id": 146,
+          "singer_mid": "004GPm8B362txY",
+          "singer_name": "谢霆锋",
+          "vid": "b0022f588ga"
+        },
+        {
+          "listennum": 169642,
+          "mv_id": 1068618,
+          "mvdesc": "鬼鬼大露香肩，美颜养眼",
+          "mvscore": 0,
+          "mvtitle": "爱在我身边",
+          "picurl": "http://vpic.video.qq.com/26107168/u0022esyhgg_160_90_3.jpg",
+          "pub_date": "2017-01-03",
+          "singer_id": 90553,
+          "singer_mid": "0014jga02JkDgx",
+          "singer_name": "吴映洁",
+          "vid": "u0022esyhgg"
+        },
+        {
+          "listennum": 238808,
+          "mv_id": 1068049,
+          "mvdesc": "窦靖童助阵王菲演唱会",
+          "mvscore": 0,
+          "mvtitle": "你快乐所以我快乐 (王菲幻乐一场演唱会)",
+          "picurl": "http://vpic.video.qq.com/72223185/v0022ex9q97_160_90_3.jpg",
+          "pub_date": "2016-12-30",
+          "singer_id": 264,
+          "singer_mid": "000GDDuQ3sGQiT",
+          "singer_name": "王菲",
+          "vid": "v0022ex9q97"
+        },
+        {
+          "listennum": 90822,
+          "mv_id": 1067560,
+          "mvdesc": "懒人放空欢乐的不二之选",
+          "mvscore": 0,
+          "mvtitle": "Make Me Proud",
+          "picurl": "http://vpic.video.qq.com/72340272/j0022ytj46a_160_90_3.jpg",
+          "pub_date": "2017-01-03",
+          "singer_id": 219,
+          "singer_mid": "003AfDK34H82GU",
+          "singer_name": "张敬轩",
+          "vid": "j0022ytj46a"
+        }
+      ],
+      "japan": [
+        {
+          "listennum": 29632,
+          "mv_id": 1068716,
+          "mvdesc": "爱情会让世界变成彩色",
+          "mvscore": 0,
+          "mvtitle": "モノクロ",
+          "picurl": "http://vpic.video.qq.com/47655271/x0022jx68by_160_90_3.jpg",
+          "pub_date": "2017-01-04",
+          "singer_id": 41965,
+          "singer_mid": "003pp5253P1mUF",
+          "singer_name": "Flower",
+          "vid": "x0022jx68by"
+        },
+        {
+          "listennum": 1505,
+          "mv_id": 1068924,
+          "mvdesc": "好励志的芭蕾小姑娘",
+          "mvscore": 0,
+          "mvtitle": "さくらのうた (中字版)",
+          "picurl": "http://vpic.video.qq.com/19209142/z00222n94yr_160_90_3.jpg",
+          "pub_date": "2017-01-03",
+          "singer_id": 24520,
+          "singer_mid": "001qOC9S113oJ2",
+          "singer_name": "高橋優",
+          "vid": "z00222n94yr"
+        },
+        {
+          "listennum": 20245,
+          "mv_id": 1067752,
+          "mvdesc": "这么萌真的大丈夫！",
+          "mvscore": 0,
+          "mvtitle": "ゆうめいに、にゃりたい。",
+          "picurl": "http://vpic.video.qq.com/51538846/o0022tam9wy_160_90_3.jpg",
+          "pub_date": "2016-12-28",
+          "singer_id": 1124247,
+          "singer_mid": "003bCdQx2OE1HL",
+          "singer_name": "わーすた",
+          "vid": "o0022tam9wy"
+        },
+        {
+          "listennum": 4635,
+          "mv_id": 1067408,
+          "mvdesc": "《碧蓝幻想》CM曲",
+          "mvscore": 0,
+          "mvtitle": "GO",
+          "picurl": "http://vpic.video.qq.com/12206380/p0022eg7clf_160_90_3.jpg",
+          "pub_date": "2016-12-27",
+          "singer_id": 5573,
+          "singer_mid": "0040uY7d0x59WB",
+          "singer_name": "BUMP OF CHICKEN",
+          "vid": "p0022eg7clf"
+        },
+        {
+          "listennum": 47365,
+          "mv_id": 1067115,
+          "mvdesc": "时代结束，SMAP最后一次合演",
+          "mvscore": 0,
+          "mvtitle": "世界に一つだけの花 (Live At SMAP×SMAP 2016/12/26)",
+          "picurl": "http://vpic.video.qq.com/93950316/o002298lojc_160_90_3.jpg",
+          "pub_date": "2016-12-26",
+          "singer_id": 5666,
+          "singer_mid": "003PyG1O1ZDXaI",
+          "singer_name": "SMAP",
+          "vid": "o002298lojc"
+        },
+        {
+          "listennum": 23793,
+          "mv_id": 1066536,
+          "mvdesc": "日系青春正能量",
+          "mvscore": 0,
+          "mvtitle": "それぞれの明日へ",
+          "picurl": "http://vpic.video.qq.com/52418065/l0022jioaf8_160_90_3.jpg",
+          "pub_date": "2016-12-22",
+          "singer_id": 41262,
+          "singer_mid": "002KGmft0y6PFu",
+          "singer_name": "家入レオ",
+          "vid": "l0022jioaf8"
+        },
+        {
+          "listennum": 42123,
+          "mv_id": 1066477,
+          "mvdesc": "笑容满溢，都是幸福",
+          "mvscore": 0,
+          "mvtitle": "絶対的幸福論",
+          "picurl": "http://vpic.video.qq.com/50373406/u0022ae1fs5_160_90_3.jpg",
+          "pub_date": "2016-12-22",
+          "singer_id": 5297,
+          "singer_mid": "003Urgz118o3ev",
+          "singer_name": "水樹奈々",
+          "vid": "u0022ae1fs5"
+        },
+        {
+          "listennum": 8380,
+          "mv_id": 1066345,
+          "mvdesc": "声嘶力竭，燃到不行",
+          "mvscore": 0,
+          "mvtitle": "Last Call",
+          "picurl": "http://vpic.video.qq.com/75700380/p0022iktru9_160_90_3.jpg",
+          "pub_date": "2016-12-20",
+          "singer_id": 42450,
+          "singer_mid": "003qCt5Z1hvcia",
+          "singer_name": "MY FIRST STORY",
+          "vid": "p0022iktru9"
+        }
+      ],
+      "korea": [
+        {
+          "listennum": 15866,
+          "mv_id": 1069562,
+          "mvdesc": "Ravi能不能好好穿衣服？",
+          "mvscore": 0,
+          "mvtitle": "Bomb",
+          "picurl": "http://vpic.video.qq.com/83217057/p00226rz9bp_160_90_3.jpg",
+          "pub_date": "2017-01-08",
+          "singer_id": 167748,
+          "singer_mid": "000y4Y7Q1ZGbJd",
+          "singer_name": "라비",
+          "vid": "p00226rz9bp"
+        },
+        {
+          "listennum": 8940,
+          "mv_id": 1069840,
+          "mvdesc": "孝琳演唱《花郎》OST",
+          "mvscore": 0,
+          "mvtitle": "서로의 눈물이 되어",
+          "picurl": "http://vpic.video.qq.com/42161444/m0022ibi51y_160_90_3.jpg",
+          "pub_date": "2017-01-09",
+          "singer_id": 28894,
+          "singer_mid": "003XGKPF3lw4Nc",
+          "singer_name": "효린",
+          "vid": "m0022ibi51y"
+        },
+        {
+          "listennum": 20122,
+          "mv_id": 1069561,
+          "mvdesc": "萌妹子元气满满地舞蹈",
+          "mvscore": 0,
+          "mvtitle": "나 너 좋아해?",
+          "picurl": "http://vpic.video.qq.com/12288058/v002202ydvk_160_90_3.jpg",
+          "pub_date": "2017-01-08",
+          "singer_id": 943978,
+          "singer_mid": "002z649R0vsTG9",
+          "singer_name": "소나무",
+          "vid": "v002202ydvk"
+        },
+        {
+          "listennum": 72144,
+          "mv_id": 1069345,
+          "mvdesc": "鬼怪大叔的男友力MAX",
+          "mvscore": 0,
+          "mvtitle": "소원",
+          "picurl": "http://vpic.video.qq.com/19608311/c0022uhpvv7_160_90_3.jpg",
+          "pub_date": "2017-01-06",
+          "singer_id": 32570,
+          "singer_mid": "0028Blfw1cnpFQ",
+          "singer_name": "어반 자카파",
+          "vid": "c0022uhpvv7"
+        },
+        {
+          "listennum": 93983,
+          "mv_id": 1069272,
+          "mvdesc": "拥有致命魅力的六个男人",
+          "mvscore": 0,
+          "mvtitle": "TOUCH",
+          "picurl": "http://vpic.video.qq.com/79746242/m0022x8qz0f_160_90_3.jpg",
+          "pub_date": "2017-01-05",
+          "singer_id": 5711,
+          "singer_mid": "004KGonW2OvCAj",
+          "singer_name": "신화",
+          "vid": "m0022x8qz0f"
+        },
+        {
+          "listennum": 47644,
+          "mv_id": 1068695,
+          "mvdesc": "炫丽童话中的梦幻少女",
+          "mvscore": 0,
+          "mvtitle": "靠近你的心",
+          "picurl": "http://vpic.video.qq.com/45652255/g0022s9vo3p_160_90_3.jpg",
+          "pub_date": "2017-01-04",
+          "singer_id": 1113580,
+          "singer_mid": "001DgngT3YCu7G",
+          "singer_name": "우주소녀",
+          "vid": "g0022s9vo3p"
+        },
+        {
+          "listennum": 88878,
+          "mv_id": 1068665,
+          "mvdesc": "精灵般让人心动的少女",
+          "mvscore": 0,
+          "mvtitle": "봄의 나라 이야기",
+          "picurl": "http://vpic.video.qq.com/45445639/h00226cr8ll_160_90_3.jpg",
+          "pub_date": "2017-01-03",
+          "singer_id": 1019200,
+          "singer_mid": "000bcVCE3Q9Mtn",
+          "singer_name": "에이프릴",
+          "vid": "h00226cr8ll"
+        },
+        {
+          "listennum": 68796,
+          "mv_id": 1068656,
+          "mvdesc": "尼坤娜琏惊喜出演",
+          "mvscore": 0,
+          "mvtitle": "결혼식",
+          "picurl": "http://vpic.video.qq.com/61732340/h00221mu5iw_160_90_3.jpg",
+          "pub_date": "2017-01-03",
+          "singer_id": 22648,
+          "singer_mid": "001UpveT4XhOUT",
+          "singer_name": "준케이",
+          "vid": "h00221mu5iw"
+        }
+      ],
+      "neidi": [
+        {
+          "listennum": 17126,
+          "mv_id": 1069636,
+          "mvdesc": "春节主打歌速度get！",
+          "mvscore": 0,
+          "mvtitle": "欢乐中国年 + 有钱没钱回家过年",
+          "picurl": "http://vpic.video.qq.com/22572547/q0022p5gg3h_160_90_3.jpg",
+          "pub_date": "2017-01-08",
+          "singer_id": 19834,
+          "singer_mid": "000AXCAL40EYXS",
+          "singer_name": "柳岩",
+          "vid": "q0022p5gg3h"
+        },
+        {
+          "listennum": 34616,
+          "mv_id": 1069568,
+          "mvdesc": "胡夏倾力演绎灰姑娘华丽蜕变",
+          "mvscore": 0,
+          "mvtitle": "你好灰姑娘",
+          "picurl": "http://vpic.video.qq.com/3044161/i0022dpbh1e_160_90_3.jpg",
+          "pub_date": "2017-01-09",
+          "singer_id": 24833,
+          "singer_mid": "002mze3U0NYXOM",
+          "singer_name": "胡夏",
+          "vid": "i0022dpbh1e"
+        },
+        {
+          "listennum": 8339,
+          "mv_id": 1069772,
+          "mvdesc": "诠释追梦的心路历程",
+          "mvscore": 0,
+          "mvtitle": "仰望",
+          "picurl": "http://vpic.video.qq.com/95580674/m00227l9g95_160_90_3.jpg",
+          "pub_date": "2017-01-10",
+          "singer_id": 164158,
+          "singer_mid": "000itww408VVeN",
+          "singer_name": "李琦",
+          "vid": "m00227l9g95"
+        },
+        {
+          "listennum": 42420,
+          "mv_id": 1069742,
+          "mvdesc": "练习室舞蹈版火热来袭",
+          "mvscore": 0,
+          "mvtitle": "自饰者 (练习室舞蹈版)",
+          "picurl": "http://vpic.video.qq.com/96839063/v0022na0ma0_160_90_3.jpg",
+          "pub_date": "2017-01-10",
+          "singer_id": 199515,
+          "singer_mid": "0003ZpE43ypssl",
+          "singer_name": "张碧晨",
+          "vid": "v0022na0ma0"
+        },
+        {
+          "listennum": 3152,
+          "mv_id": 1069582,
+          "mvdesc": "单簧管与古钢琴的完美邂逅",
+          "mvscore": 0,
+          "mvtitle": "Standchen D. 957, No. 4",
+          "picurl": "http://vpic.video.qq.com/56617333/c00221khd1u_160_90_3.jpg",
+          "pub_date": "2017-01-09",
+          "singer_id": 178625,
+          "singer_mid": "000r1NAP3rdgfZ",
+          "singer_name": "王弢",
+          "vid": "c00221khd1u"
+        },
+        {
+          "listennum": 682068,
+          "mv_id": 1069554,
+          "mvdesc": "梦境中的鹿王子，羡慕那只鹦鹉",
+          "mvscore": 0,
+          "mvtitle": "微白城市（Winter song）",
+          "picurl": "http://vpic.video.qq.com/99834385/p0022tfj74n_160_90_3.jpg",
+          "pub_date": "2017-01-09",
+          "singer_id": 204664,
+          "singer_mid": "001SqkF53OEhdO",
+          "singer_name": "鹿晗",
+          "vid": "p0022tfj74n"
+        },
+        {
+          "listennum": 15250,
+          "mv_id": 1069184,
+          "mvdesc": "颜值演技气场齐飞",
+          "mvscore": 0,
+          "mvtitle": "北极光",
+          "picurl": "http://vpic.video.qq.com/34262392/v0022gidzz6_160_90_3.jpg",
+          "pub_date": "2017-01-06",
+          "singer_id": 1059,
+          "singer_mid": "000lLCqt2TLQKU",
+          "singer_name": "何晟铭",
+          "vid": "v0022gidzz6"
+        },
+        {
+          "listennum": 61120,
+          "mv_id": 1068043,
+          "mvdesc": "逃离“城市高压”畅快活！",
+          "mvscore": 0,
+          "mvtitle": "It's Time To Play",
+          "picurl": "http://vpic.video.qq.com/57326445/l0022yxqr27_160_90_3.jpg",
+          "pub_date": "2016-12-30",
+          "singer_id": 12111,
+          "singer_mid": "004YXxql1sSr2o",
+          "singer_name": "金志文",
+          "vid": "l0022yxqr27"
+        }
+      ],
+      "oumei": [
+        {
+          "listennum": 41681,
+          "mv_id": 1069270,
+          "mvdesc": "沙漠里要关水龙头啊！",
+          "mvscore": 0,
+          "mvtitle": "I Got You",
+          "picurl": "http://vpic.video.qq.com/55257242/v0022bwfxah_160_90_3.jpg",
+          "pub_date": "2017-01-07",
+          "singer_id": 164350,
+          "singer_mid": "0047Atwu2anPlX",
+          "singer_name": "Bebe Rexha",
+          "vid": "v0022bwfxah"
+        },
+        {
+          "listennum": 10219,
+          "mv_id": 1069790,
+          "mvdesc": "教给你怎么不靠脸撩妹",
+          "mvscore": 0,
+          "mvtitle": "Summer",
+          "picurl": "http://vpic.video.qq.com/55683199/q0022jnpgri_160_90_3.jpg",
+          "pub_date": "2017-01-09",
+          "singer_id": 1104128,
+          "singer_mid": "003T09nh37Pq4N",
+          "singer_name": "Marshmello",
+          "vid": "q0022jnpgri"
+        },
+        {
+          "listennum": 2592,
+          "mv_id": 1069588,
+          "mvdesc": "所有的歌曲都是一个味道",
+          "mvscore": 0,
+          "mvtitle": "Everything",
+          "picurl": "http://vpic.video.qq.com/77599504/e0022elbpr2_160_90_3.jpg",
+          "pub_date": "2017-01-08",
+          "singer_id": 13221,
+          "singer_mid": "004XAGWw2pOrha",
+          "singer_name": "Passenger",
+          "vid": "e0022elbpr2"
+        },
+        {
+          "listennum": 54019,
+          "mv_id": 1067982,
+          "mvdesc": "适合一个人听的安静钢琴曲",
+          "mvscore": 0,
+          "mvtitle": "Wishes",
+          "picurl": "http://vpic.video.qq.com/54824243/z0022zy39a5_160_90_3.jpg",
+          "pub_date": "2017-01-05",
+          "singer_id": 1258198,
+          "singer_mid": "004HBEIt3qNhEG",
+          "singer_name": "Giulia Mazzoni",
+          "vid": "z0022zy39a5"
+        },
+        {
+          "listennum": 3625,
+          "mv_id": 1068771,
+          "mvdesc": "默契组合大唱情歌",
+          "mvscore": 0,
+          "mvtitle": "Tear In My Heart",
+          "picurl": "http://vpic.video.qq.com/16417803/p00227mxvp5_160_90_3.jpg",
+          "pub_date": "2017-01-03",
+          "singer_id": 156241,
+          "singer_mid": "000VMMKS0OQugn",
+          "singer_name": "Twenty One Pilots",
+          "vid": "p00227mxvp5"
+        },
+        {
+          "listennum": 11874,
+          "mv_id": 1068705,
+          "mvdesc": "全都是粉丝开心瞬间",
+          "mvscore": 0,
+          "mvtitle": "Amazing Day (Ins版)",
+          "picurl": "http://vpic.video.qq.com/71682316/i00228hdptw_160_90_3.jpg",
+          "pub_date": "2017-01-03",
+          "singer_id": 290,
+          "singer_mid": "001MXQUi1tlLon",
+          "singer_name": "Coldplay",
+          "vid": "i00228hdptw"
+        },
+        {
+          "listennum": 17507,
+          "mv_id": 1068655,
+          "mvdesc": "《爱乐之城》的浪漫之夜",
+          "mvscore": 0,
+          "mvtitle": "Start A Fire",
+          "picurl": "http://vpic.video.qq.com/30543626/v00221uq7um_160_90_3.jpg",
+          "pub_date": "2017-01-03",
+          "singer_id": 4912,
+          "singer_mid": "004KzHvS46zsGB",
+          "singer_name": "John Legend",
+          "vid": "v00221uq7um"
+        },
+        {
+          "listennum": 6728,
+          "mv_id": 1068652,
+          "mvdesc": "扑朔迷离，世界都在眼前",
+          "mvscore": 0,
+          "mvtitle": "Wiser",
+          "picurl": "http://vpic.video.qq.com/2653774/z0022s5uedj_160_90_3.jpg",
+          "pub_date": "2017-01-02",
+          "singer_id": 40006,
+          "singer_mid": "002HWpgo0tN7lC",
+          "singer_name": "Madilyn Bailey",
+          "vid": "z0022s5uedj"
+        }
+      ]
+    },
+    "toplist": [
+      {
+        "ListName": "巅峰榜·流行指数",
+        "MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/64072.png",
+        "MacListPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/64073.png",
+        "headPic_v12": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/64074.jpg",
+        "listennum": 20000000,
+        "pic": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/64070.png",
+        "pic_Detail": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/63732.jpg",
+        "pic_h5": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/64065.png",
+        "pic_v11": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/64071.png",
+        "pic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_4_300_200370118.jpg",
+        "showtime": "2017-01-10",
+        "songlist": [
+          {
+            "singerid": 4286,
+            "singername": "林俊杰",
+            "songid": 200370118,
+            "songname": "末班车 (Live)"
+          },
+          {
+            "singerid": 19329,
+            "singername": "李玉刚",
+            "songid": 109191643,
+            "songname": "刚好遇见你"
+          },
+          {
+            "singerid": 13203,
+            "singername": "萧敬腾",
+            "songid": 200370114,
+            "songname": "爱我你就抱抱我 (Live)"
+          },
+          {
+            "singerid": 29222,
+            "singername": "Ed Sheeran",
+            "songid": 200369396,
+            "songname": "Shape of You"
+          }
+        ],
+        "topID": 4,
+        "type": 0,
+        "update_key": "2017-01-10"
+      },
+      {
+        "ListName": "巅峰榜·热歌",
+        "MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172909.jpg",
+        "MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172903.jpg",
+        "headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820174954.jpg",
+        "listennum": 19600000,
+        "pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172838.jpg",
+        "pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172850.jpg",
+        "pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172810.jpg",
+        "pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172844.jpg",
+        "pic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_26_300_102636799.jpg",
+        "showtime": "2017-01-05",
+        "songlist": [
+          {
+            "singerid": 5062,
+            "singername": "薛之谦",
+            "songid": 102636799,
+            "songname": "演员"
+          },
+          {
+            "singerid": 4558,
+            "singername": "周杰伦",
+            "songid": 107192078,
+            "songname": "告白气球"
+          },
+          {
+            "singerid": 5062,
+            "singername": "薛之谦",
+            "songid": 5106429,
+            "songname": "丑八怪"
+          },
+          {
+            "singerid": 34412,
+            "singername": "TFBOYS",
+            "songid": 200263633,
+            "songname": "萤火"
+          }
+        ],
+        "topID": 26,
+        "type": 0,
+        "update_key": "2017_1"
+      },
+      {
+        "ListName": "巅峰榜·新歌",
+        "MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172435.jpg",
+        "MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172427.jpg",
+        "headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820174934.jpg",
+        "listennum": 11080160,
+        "pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172358.jpg",
+        "pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172414.jpg",
+        "pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172242.jpg",
+        "pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150820172404.jpg",
+        "pic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_27_300_200369396.jpg",
+        "showtime": "2017-01-10",
+        "songlist": [
+          {
+            "singerid": 29222,
+            "singername": "Ed Sheeran",
+            "songid": 200369396,
+            "songname": "Shape of You"
+          },
+          {
+            "singerid": 24833,
+            "singername": "胡夏",
+            "songid": 200368484,
+            "songname": "你好灰姑娘"
+          },
+          {
+            "singerid": 120,
+            "singername": "杨坤/华晨宇",
+            "songid": 200374390,
+            "songname": "挂彩"
+          },
+          {
+            "singerid": 11608,
+            "singername": "杨宗纬/张碧晨",
+            "songid": 200380820,
+            "songname": "凉凉"
+          }
+        ],
+        "topID": 27,
+        "type": 0,
+        "update_key": "2017-01-10"
+      },
+      {
+        "ListName": "巅峰榜·欧美",
+        "MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519104205.jpg",
+        "MacListPicUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519104155.jpg",
+        "headPic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20160224140905.jpg",
+        "listennum": 11663110,
+        "pic": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519104119.jpg",
+        "pic_Detail": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519104128.jpg",
+        "pic_h5": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140519104015.jpg",
+        "pic_v11": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20140707170348.jpg",
+        "pic_v12": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_3_300_109364695.jpg",
+        "showtime": "2017-01-05",
+        "songlist": [
+          {
+            "singerid": 944940,
+            "singername": "Alan Walker",
+            "songid": 109364695,
+            "songname": "Alone"
+          },
+          {
+            "singerid": 944940,
+            "singername": "Alan Walker",
+            "songid": 110107021,
+            "songname": "Routine"
+          },
+          {
+            "singerid": 30406,
+            "singername": "Ramin Djawadi",
+            "songid": 109872432,
+            "songname": "The Great Wall"
+          },
+          {
+            "singerid": 39000,
+            "singername": "Charlie Puth",
+            "songid": 109135802,
+            "songname": "Does It Feel"
+          }
+        ],
+        "topID": 3,
+        "type": 0,
+        "update_key": "2017_1"
+      }
+    ]
+  }
+}
